@@ -1,0 +1,134 @@
+html {
+    background-image: url(blue.jpg);  
+    width: 100%;
+    background-size:cover;
+}
+
+.col-lg-6 {
+    display: flex;
+    float: right;
+}
+
+.p-4 {
+    position: absolute;
+    left: 100px;
+}
+
+#text {
+    position: relative;
+    top: 60px;
+    right: 21.7%;
+    background-color: white;
+    height: 400px;
+}
+
+.display-4 {
+    font-size: 28px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.lead {
+    margin-left: 30px;
+    padding-right: 40px;
+    text-align: justify;
+}
+
+.jpg {
+    position: relative;
+    left: 74%;
+    padding-left: 2px;
+
+}
+
+.jpg1 {
+    position: relative;
+    left: -1%;
+    top: 110%;
+    padding-left: 20px;
+}
+
+#self-image {
+    position: absolute;
+    border-radius: 30px;
+    right: 20px;
+    border: solid 2px;
+
+}
+
+.container {
+    position: absolute;
+    width: 85%;
+    height: 500px;
+    left: 30px;
+    top: 110%;
+}
+
+hr {
+    margin: 5%;
+    background-color: rgb(88, 153, 206);
+}
+
+.contact {
+    width: 300px;
+    position: relative;
+    left: 10px;
+}
+
+#ht {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#css {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#js {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#c {
+    margin-left: 40px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+#git {
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+
+#boot {
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    padding-bottom: 40px;
+}
+
+.bodyjpg {
+    position: relative;
+    left: 78%;
+    bottom: 40px;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    margin-top: -30px;
+}
+
+#space {
+    /* background-color: bisque; */
+    padding-bottom: 30%;
+}
+
+.card {
+    text-align: justify;
+    
+}
+h1{
+    padding-bottom:20px;
+}
